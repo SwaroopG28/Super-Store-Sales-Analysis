@@ -13,4 +13,4 @@ This interactive dashboard provides valuable insights into Superstore sales data
 
 ##Learnings: Incorporating advanced data analysis techniques, with a specialization in time series analysis, to deliver valuable insights, accurate sales forecasting, and create interactive dashboards that drive business success.
 
-![Forecast](https://github.com/SwaroopG28/Super-Store-Sales-Analysis/blob/main/Super%20Store%20Sales%20Analytics-Forecasting.pdf)
+![Forecast](https://github.com/SwaroopG28/Super-Store-Sales-Analysis/blob/main/Super%20Store%20Sales%20Analytics-Forecasting.jpg)
