@@ -9,8 +9,7 @@ This interactive dashboard provides valuable insights into Superstore sales data
 3) Interactive Visualizations: Customizable charts and filters to delve deeper into the data.
 4) Actionable Insights: Recommendations based on data analysis to optimize sales strategies.
 
-![Dashboard](https://github.com/SwaroopG28/Super-Store-Sales-Analysis/blob/main/Super%20Store%20Sales%20Analytics-%20Dashboard.pdf)
-
+![Dashboard](https://github.com/SwaroopG28/Super-Store-Sales-Analysis/blob/main/Super%20Store%20Sales%20Analytics-%20Dashboard.jpg)
 
 ##Learnings: Incorporating advanced data analysis techniques, with a specialization in time series analysis, to deliver valuable insights, accurate sales forecasting, and create interactive dashboards that drive business success.
 
